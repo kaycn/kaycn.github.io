@@ -1,5 +1,7 @@
-#flutter appbar的使用
-
+---
+layout: post
+title: flutter appbar的使用
+---
 ```dart
 AppBar({
   Key key,
